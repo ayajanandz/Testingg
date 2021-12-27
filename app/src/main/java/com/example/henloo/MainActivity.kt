@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val button = findViewById<Button>(R.id.button)
-        Log.i("Info", "Button Clicked")
+        Log.i("Info", "Button Clicked in new branch")
 
     }
 }
